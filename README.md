@@ -1,16 +1,19 @@
-<h1 align='center'> Hi! :wave:</h1>
+Dongwoo (Arthur) Kim
+----- 
 
-<p align='center'>
-I'm now in Return Zero Inc. ( https://rtzr.ai/ )</p>
+Hi! :wave:
 
-
-<p align='center'>
-  <a href="https://github.com/kimdwkimdw"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdwkimdw&exclude_repo=dotfiles&hide=javascript,html&custom_title=Mostly Using&langs_count=3"/></a>
-</p>
+I'm now in Return Zero Inc. ( https://rtzr.ai/ )
 
 
-<h3 align='center'><i>Join! https://rtzr.ai/recruit
-</i></h3>
+![GitHub Public stats](https://github-readme-stats.vercel.app/api?username=kimdwkimdw&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdwkimdw&exclude_repo=dotfiles&langs_count=3)
 
 
 
+Join! https://rtzr.ai/recruit
+
+Always welcome ☕ coffee chat.
+
+연구 혹은 개발 이야기 ☕ 커피챗은 언제나 환영입니다.
